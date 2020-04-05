@@ -1,0 +1,1 @@
+{"SchemaVersion":1,"Name":"IntercoreComms_HighLevelApp","ComponentId":"25025d2c-66da-4448-bae1-ac26fcdd3627","EntryPoint":"/bin/app","CmdArgs":[],"Capabilities":{"AllowedApplicationConnections":["005180bc-402f-4cb3-a662-72937dbcde47"]},"ApplicationType":"Default","TargetApplicationRuntimeVersion":4,"TargetBetaApis":"Beta2001"}

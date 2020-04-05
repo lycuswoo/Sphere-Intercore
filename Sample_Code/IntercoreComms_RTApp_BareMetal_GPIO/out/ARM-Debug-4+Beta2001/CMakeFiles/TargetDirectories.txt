@@ -1,0 +1,10 @@
+C:/Users/chiwoo/source/IntercoreLab/Sample_Code/IntercoreComms_RTApp_BareMetal_GPIO/out/ARM-Debug-4+Beta2001/CMakeFiles/MT3620_RTApp_BareMetal_GPIO.dir
+C:/Users/chiwoo/source/IntercoreLab/Sample_Code/IntercoreComms_RTApp_BareMetal_GPIO/out/ARM-Debug-4+Beta2001/CMakeFiles/MakeImage.dir
+C:/Users/chiwoo/source/IntercoreLab/Sample_Code/IntercoreComms_RTApp_BareMetal_GPIO/out/ARM-Debug-4+Beta2001/CMakeFiles/edit_cache.dir
+C:/Users/chiwoo/source/IntercoreLab/Sample_Code/IntercoreComms_RTApp_BareMetal_GPIO/out/ARM-Debug-4+Beta2001/CMakeFiles/rebuild_cache.dir
+C:/Users/chiwoo/source/IntercoreLab/Sample_Code/IntercoreComms_RTApp_BareMetal_GPIO/out/ARM-Debug-4+Beta2001/lib/MT3620_M4_Driver/CMakeFiles/edit_cache.dir
+C:/Users/chiwoo/source/IntercoreLab/Sample_Code/IntercoreComms_RTApp_BareMetal_GPIO/out/ARM-Debug-4+Beta2001/lib/MT3620_M4_Driver/CMakeFiles/MT3620_M4_Driver.dir
+C:/Users/chiwoo/source/IntercoreLab/Sample_Code/IntercoreComms_RTApp_BareMetal_GPIO/out/ARM-Debug-4+Beta2001/lib/MT3620_M4_Driver/CMakeFiles/rebuild_cache.dir
+C:/Users/chiwoo/source/IntercoreLab/Sample_Code/IntercoreComms_RTApp_BareMetal_GPIO/out/ARM-Debug-4+Beta2001/lib/MT3620_M4_Driver/lib/MT3620_M4_BSP/CMakeFiles/MT3620_M4_BSP.dir
+C:/Users/chiwoo/source/IntercoreLab/Sample_Code/IntercoreComms_RTApp_BareMetal_GPIO/out/ARM-Debug-4+Beta2001/lib/MT3620_M4_Driver/lib/MT3620_M4_BSP/CMakeFiles/edit_cache.dir
+C:/Users/chiwoo/source/IntercoreLab/Sample_Code/IntercoreComms_RTApp_BareMetal_GPIO/out/ARM-Debug-4+Beta2001/lib/MT3620_M4_Driver/lib/MT3620_M4_BSP/CMakeFiles/rebuild_cache.dir

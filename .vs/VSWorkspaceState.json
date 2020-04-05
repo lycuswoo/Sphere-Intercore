@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\MT3620_M4_Driver",
+    "\\Sample_Code",
+    "\\Sample_Code\\IntercoreComms_RTApp_BareMetal_GPIO",
+    "\\Sample_Code\\IntercoreComms_RTApp_BareMetal_GPIO\\out"
+  ],
+  "SelectedNode": "\\Sample_Code\\IntercoreComms_RTApp_BareMetal_GPIO\\main.c",
+  "PreviewInSolutionExplorer": false
+}

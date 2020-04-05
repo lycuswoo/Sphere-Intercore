@@ -1,0 +1,1 @@
+{"SchemaVersion":1,"Name":"MT3620_RTApp_BareMetal_GPIO","ComponentId":"005180bc-402f-4cb3-a662-72937dbcde47","EntryPoint":"/bin/app","CmdArgs":[],"Capabilities":{"Gpio":[8,9,10],"Uart":["ISU0"],"AllowedApplicationConnections":["25025d2c-66da-4448-bae1-ac26fcdd3627"]},"ApplicationType":"RealTimeCapable","TargetApplicationRuntimeVersion":4,"TargetBetaApis":"Beta2001"}

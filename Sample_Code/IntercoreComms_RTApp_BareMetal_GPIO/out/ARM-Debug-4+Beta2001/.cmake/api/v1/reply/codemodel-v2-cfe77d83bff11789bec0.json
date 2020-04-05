@@ -1,0 +1,150 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.11"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						2,
+						3
+					]
+				},
+				{
+					"build" : "lib/MT3620_M4_Driver",
+					"childIndexes" : 
+					[
+						2
+					],
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.11"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "C:/Users/chiwoo/source/IntercoreLab/MT3620_M4_Driver",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "lib/MT3620_M4_Driver/lib/MT3620_M4_BSP",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.11"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 2,
+					"source" : "C:/Users/chiwoo/source/IntercoreLab/MT3620_M4_BSP",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "MT3620_RTApp_BareMetal_GPIO",
+					"targetIndexes" : 
+					[
+						2,
+						3
+					]
+				},
+				{
+					"childIndexes" : 
+					[
+						2
+					],
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "MT3620_M4_Driver",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "MT3620_M4_BSP",
+					"parentIndex" : 1,
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 2,
+					"id" : "MT3620_M4_BSP::@65d7ac6506b1e25f9f50",
+					"jsonFile" : "target-MT3620_M4_BSP-Debug-910ec4a9527220f8ae16.json",
+					"name" : "MT3620_M4_BSP",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "MT3620_M4_Driver::@0a784b01baa11b8c1400",
+					"jsonFile" : "target-MT3620_M4_Driver-Debug-0c256f2beb881620bbda.json",
+					"name" : "MT3620_M4_Driver",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "MT3620_RTApp_BareMetal_GPIO::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MT3620_RTApp_BareMetal_GPIO-Debug-ef34ea3b466e6c0431db.json",
+					"name" : "MT3620_RTApp_BareMetal_GPIO",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "MakeImage::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MakeImage-Debug-c25466bd2c948802fba5.json",
+					"name" : "MakeImage",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/chiwoo/source/IntercoreLab/Sample_Code/IntercoreComms_RTApp_BareMetal_GPIO/out/ARM-Debug-4+Beta2001",
+		"source" : "C:/Users/chiwoo/source/IntercoreLab/Sample_Code/IntercoreComms_RTApp_BareMetal_GPIO"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}
