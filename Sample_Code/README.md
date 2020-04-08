@@ -27,6 +27,25 @@ git clone https://github.com/lycuswoo/Sphere-Intercore.git
 1. (Optional for M4 debug msg) A USB-to-serial adapter (for example, [FTDI Friend](https://www.digikey.com/catalog/en/partgroup/ftdi-friend/60311)) to connect the real-time capable core UART to a USB port on your PC.
 1. (Optional for M4 debug msg) A terminal emulator (such as Telnet or [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/.)) to display the output.
 
+## Prep your device
+
+To prep your device on Windows:
+
+1. Right-click the Azure Sphere Developer Command Prompt shortcut and select **More>Run as administrator**. 
+
+   The `--EnableRTCoreDebugging` parameter requires administrator privilege because it installs USB drivers for the debugger.
+
+1. Enter the following azsphere command:
+
+   `azsphere device enable-development --enablertcoredebugging`
+
+1. Close the window after the command completes because administrator privilege is no longer required. As a best practice, you should always use the lowest privilege that can accomplish a task.
+
+To prep your device on Linux:
+
+1. Enter the following azsphere command:
+
+   `azsphere device enable-development --enablertcoredebugging`
 ## Set up hardware to display output
 
 To prepare your hardware to display output from the sample, see RTApp readme for setup
